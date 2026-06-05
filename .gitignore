@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/papers_enriched.json
+report.tex
+report/
+src/__pycache__/
+models/
+results/
+.env
